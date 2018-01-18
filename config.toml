@@ -69,12 +69,12 @@ DefaultContentLanguage = "en"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "Subscribe to our mailing list"
+  firstButtonText = "Subscribe to our Events via E-Mail"
   firstButtonLink = "https://groups.google.com/d/forum/eastuttgart"
   secondButtonText = "Find us on Facebook"
-  secondButtonLink = "https://www.facebook.com/EAStuttgart/"
+  secondButtonLink = "https://www.facebook.com/groups/eastuttgart/"
   # Remove the # before the text to add the optional Meetup button
-  #meetupButtonText = "Find us on Meetup"
+  meetupButtonText = "Find us on Meetup"
 
   [Languages.en.urls]
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
