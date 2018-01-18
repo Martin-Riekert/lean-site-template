@@ -81,5 +81,5 @@ DefaultContentLanguage = "en"
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
   facebookUrl = "https://www.facebook.com/groups/eastuttgart/"
-  twitterUrl = ""
+  #twitterUrl = ""
   meetupUrl = "https://www.meetup.com/Stuttgart-Effective-Altruism-Meetup"
