@@ -59,8 +59,8 @@ DefaultContentLanguage = "en"
 
   [Languages.en.contactform]
   leadText = "Say hi!"
-  senderName = "Your name (required)"
-  senderEmail = "Your email (required)"
+  senderName = "Martin Riekert"
+  senderEmail = "martin.j.riekert@gmail.com"
   emailSubject = "Subject"
   emailMessage = "Your Message"
   send = "Send"
