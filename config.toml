@@ -21,7 +21,7 @@ DefaultContentLanguage = "en"
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
   fullTitle = "Effective Altruism Stuttgart"
-  strapline = "Doing good better"
+  strapline = "Doing good better."
 
   ## -- EA GROUP INFO -- ##
   [Languages.en.groupinfo]
