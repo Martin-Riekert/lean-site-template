@@ -50,11 +50,11 @@ DefaultContentLanguage = "en"
 
   [Languages.en.homepage]
    ## -- HOMEPAGE -- ##
-  topBannerText = "Who are we?"
-  leadText = "We're a group of people who want to help you answer the question: how can I do good better?"
-  firstSectionHeader = "Doing good better"
-  secondSectionHeader = "Building a community"
-  thirdSectionHeader = "Finding better ways to help"
+  #topBannerText = "Who are we?"
+  #leadText = "We're a group of people who want to help you answer the question: how can I do good better?"
+  #firstSectionHeader = "Doing good better"
+  #secondSectionHeader = "Building a community"
+  #thirdSectionHeader = "Finding better ways to help"
   bottomBannerText = "A proud member of the effective altruism network"
 
   [Languages.en.contactform]
