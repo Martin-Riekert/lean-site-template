@@ -74,7 +74,7 @@ DefaultContentLanguage = "en"
   secondButtonText = "Find us on Facebook"
   secondButtonLink = "https://www.facebook.com/EAStuttgart/"
   # Remove the # before the text to add the optional Meetup button
-  meetupButtonText = "Find us on Meetup"
+  #meetupButtonText = "Find us on Meetup"
 
   [Languages.en.urls]
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
