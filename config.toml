@@ -58,11 +58,11 @@ DefaultContentLanguage = "en"
   bottomBannerText = "A proud member of the effective altruism network"
 
   [Languages.en.contactform]
-  leadText = "Say hi!"
-  senderName = "Martin Riekert"
-  senderEmail = "martin.j.riekert@gmail.com"
-  emailSubject = "Subject"
-  emailMessage = "Your Message"
+  leadText = "Thank you for your interest in effective altruism. Please contact us via following form."
+  senderName = "Your name (required):"
+  senderEmail = "Your email (required):"
+  emailSubject = "Subject of your Message:"
+  emailMessage = "Your Message:"
   send = "Send"
 
   [Languages.en.jumbotron]
