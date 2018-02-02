@@ -14,7 +14,7 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "Effective Altruism Stuttgart"
+  title = "EA Stuttgart"
   weight = 1
   languageCode = "en"
 
@@ -50,7 +50,7 @@ DefaultContentLanguage = "en"
 
   [Languages.en.homepage]
    ## -- HOMEPAGE -- ##
-  #topBannerText = "Who are we?"
+  topBannerText = "Who are we?"
   #leadText = "We're a group of people who want to help you answer the question: how can I do good better?"
   #firstSectionHeader = "Doing good better"
   #secondSectionHeader = "Building a community"
@@ -69,10 +69,10 @@ DefaultContentLanguage = "en"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "E-Mail Newsletter"
-  firstButtonLink = "https://groups.google.com/d/forum/eastuttgart"
-  secondButtonText = "Find us on Facebook"
-  secondButtonLink = "https://www.facebook.com/groups/eastuttgart/"
+  firstButtonText = "Find us on Facebook"
+  firstButtonLink = "https://www.facebook.com/groups/eastuttgart/"
+  secondButtonText = "E-Mail Newsletter"
+  secondButtonLink = "https://groups.google.com/d/forum/eastuttgart"
   # Remove the # before the text to add the optional Meetup button
   meetupButtonText = "Find us on Meetup"
 
