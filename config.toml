@@ -50,7 +50,7 @@ DefaultContentLanguage = "en"
 
   [Languages.en.homepage]
    ## -- HOMEPAGE -- ##
-  topBannerText = "Who are we?"
+  #topBannerText = "Who are we?"
   #leadText = "We're a group of people who want to help you answer the question: how can I do good better?"
   #firstSectionHeader = "Doing good better"
   #secondSectionHeader = "Building a community"
@@ -87,7 +87,7 @@ DefaultContentLanguage = "en"
 
   [Languages.de]
   languageCode = "de"
-  title = "Die beste EA Webseite"
+  title = "EA Stuttgart"
   weight = 2
 
 
@@ -104,7 +104,7 @@ DefaultContentLanguage = "en"
   [Languages.de.navbar]
   home = "Home"
   faq = "FAQ"
-  effectiveAltruism = "Effektiven Altruismus"
+  effectiveAltruism = "Effektiver Altruismus"
   aboutEA = "Über EA"
   readingMaterial = "Lesematerial"
   keyTerms = "Wichtigste Begriffe"
@@ -119,9 +119,9 @@ DefaultContentLanguage = "en"
   #topBannerText = "Wer sind wir?"
   leadText = "Wir wollen die Welt besser helfen"
   firstSectionHeader = "Mein deutsch..."
-  secondSectionHeader = "...ist echt nicht so gut"
-  thirdSectionHeader = "Also geb ich auf"
-  bottomBannerText = "..und so weiter"
+  #secondSectionHeader = "...ist echt nicht so gut"
+  #thirdSectionHeader = "Also geb ich auf"
+  #bottomBannerText = "..und so weiter"
 
   [Languages.de.contactform]
   leadText = "Sagen Sie Hallo!"
