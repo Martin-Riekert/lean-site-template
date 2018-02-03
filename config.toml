@@ -70,7 +70,7 @@ DefaultContentLanguage = "en"
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
   firstButtonText = "Find us on Facebook"
-  firstButtonLink = "https://www.facebook.com/groups/eastuttgart/"
+  firstButtonLink = "https://www.facebook.com/EAStuttgart/"
   secondButtonText = "E-Mail Newsletter"
   secondButtonLink = "https://groups.google.com/d/forum/eastuttgart"
   # Remove the # before the text to add the optional Meetup button
@@ -139,6 +139,6 @@ DefaultContentLanguage = "en"
   meetupButtonText = "Finden Sie uns auf meetup.com"
 
   [Languages.de.urls]
-  facebookUrl = "https://www.facebook.com/groups/eastuttgart/"
+  facebookUrl = "https://www.facebook.com/EAStuttgart/"
   #twitterUrl = ""
   meetupUrl = "https://www.meetup.com/Stuttgart-Effective-Altruism-Meetup"
