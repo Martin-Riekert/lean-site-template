@@ -92,7 +92,7 @@ DefaultContentLanguage = "en"
 
 
   [Languages.de.general]
-  fullTitle = "EA Stuttgart"
+  fullTitle = "Effektiver Altruismus Stuttgart"
   strapline = "Gutes besser tun."
 
   [Languages.de.groupinfo]
