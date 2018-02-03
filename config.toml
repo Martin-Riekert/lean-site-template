@@ -117,8 +117,8 @@ DefaultContentLanguage = "en"
 
   [Languages.de.homepage]
   #topBannerText = "Wer sind wir?"
-  leadText = "Wir wollen die Welt besser helfen"
-  firstSectionHeader = "Mein deutsch..."
+  leadText = "Wir verbinden Rationalität und Wissenschaft um die Welt besser zu machen"
+  #firstSectionHeader = "Mein deutsch..."
   #secondSectionHeader = "...ist echt nicht so gut"
   #thirdSectionHeader = "Also geb ich auf"
   #bottomBannerText = "..und so weiter"
