@@ -125,20 +125,20 @@ DefaultContentLanguage = "en"
 
   [Languages.de.contactform]
   leadText = "Sagen Sie Hallo!"
-  senderName = "Deine Name(required)"
-  senderEmail = "Dein Email (required)"
-  emailSubject = "Subjekt"
-  emailMessage = "Deine Nachricht:"
-  send = "Schicken"
+  senderName = "Bitte geben Sie Ihren Namen an (erforderlich)"
+  senderEmail = "E-Mail (erforderlich):"
+  emailSubject = "Betreff"
+  emailMessage = "Nachricht:"
+  send = "Abschicken"
 
   [Languages.de.jumbotron]
-  firstButtonText = "Folgen Sie uns"
-  firstButtonLink = "http://www.mailinglist.link/12345"
-  secondButtonText = "Finden Sie uns auf Facebook"
-  secondButtonLink = "http://www.facebook.com/someEAFacebookGroup"
-  meetupButtonText = "Finden Sie uns auf Meetup"
+  firstButtonText = "Finden Sie uns auf Facebook"
+  firstButtonLink = "https://www.facebook.com/groups/eastuttgart/"
+  secondButtonText = "E-Mail Newsletter"
+  secondButtonLink = "https://groups.google.com/d/forum/eastuttgart"
+  meetupButtonText = "Finden Sie uns auf meetup.com"
 
   [Languages.de.urls]
-  facebookUrl = "http://www.facebook.com/someEAFacebookGroup"
+  facebookUrl = "https://www.facebook.com/groups/eastuttgart/"
   #twitterUrl = ""
-  meetupUrl = "http://www.meetup.com/someEAMeetupGroup"
+  meetupUrl = "https://www.meetup.com/Stuttgart-Effective-Altruism-Meetup"
