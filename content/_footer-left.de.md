@@ -1,4 +1,4 @@
- #### More on EA
+ #### Mehr zu Effektivem Altruismus
 
 * [Mehr zu Effektivem Altruismus](https://effektiveraltruismus.de/ueber-ea/)
 * [**Video:** The Why and How of Effective Altruism](https://www.youtube.com/watch?v=Diuv3XZQXyc)
