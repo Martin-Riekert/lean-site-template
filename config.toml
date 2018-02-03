@@ -92,31 +92,31 @@ DefaultContentLanguage = "en"
 
 
   [Languages.de.general]
-  fullTitle = "EA ist das Beste"
-  strapline = "Habe ich nicht schon gesagt, dass EA ist das Beste?!"
+  fullTitle = "EA Stuttgart"
+  strapline = "Gutes besser tun."
 
   [Languages.de.groupinfo]
-  legalOrgName = "Effective Altruism Awesomeville"
-  orgLocations = "Awesometown"
-  registeredCharityNumber = "3.14159"
-  contactEmail = "awesome@ea.com"
+  legalOrgName = "Effective Altruism Stuttgart"
+  orgLocations = "Stuttgart"
+  #registeredCharityNumber = "3.14159"
+  contactEmail = "stuttgartea@gmail.com"
 
   [Languages.de.navbar]
-  home = "Heim"
+  home = "Home"
   faq = "FAQ"
   effectiveAltruism = "Effektiven Altruismus"
   aboutEA = "Über EA"
-  readingMaterial = "Lesestoff"
-  keyTerms = "Wortliste"
+  readingMaterial = "Lesematerial"
+  keyTerms = "Wichtigste Begriffe"
   organizations = "Organisationen"
-  contact= "Kontakte"
+  contact= "Kontakt"
 
   [Languages.de.pages]
-  contactPageHeader = "Wenden Sie sich an uns"
+  contactPageHeader = "Kontakt"
   aboutEAPageHeader = "Was ist Effektiven Altruismus?"
 
   [Languages.de.homepage]
-  topBannerText = "Wer sind wir?"
+  #topBannerText = "Wer sind wir?"
   leadText = "Wir wollen die Welt besser helfen"
   firstSectionHeader = "Mein deutsch..."
   secondSectionHeader = "...ist echt nicht so gut"
