@@ -1,4 +1,4 @@
-baseURL = "eastuttgart.org/"
+baseURL = "https://eastuttgart.org/"
 theme = "local-ea-template"
 
 # If you are using multiple languages and want a different default,
