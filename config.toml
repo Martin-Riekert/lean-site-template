@@ -50,7 +50,7 @@ DefaultContentLanguage = "en"
 
   [Languages.en.homepage]
    ## -- HOMEPAGE -- ##
-  #topBannerText = "Who are we?"
+  topBannerText = "Next Meetup: Sunday, 18.03.2018 17:00 - 20:00"
   #leadText = "We're a group of people who want to help you answer the question: how can I do good better?"
   firstSectionHeader = "Meetups"
   #secondSectionHeader = "Building a community"
@@ -117,7 +117,7 @@ DefaultContentLanguage = "en"
 
   [Languages.de.homepage]
   #topBannerText = "Wer sind wir?"
-  leadText = "Wir verbinden Rationalität und Wissenschaft um die Welt besser zu machen"
+  leadText = "Nächstes Meetup: Sonntag, 18.03.2018 17:00 - 20:00"
   firstSectionHeader = "Meetup"
   #secondSectionHeader = "...ist echt nicht so gut"
   #thirdSectionHeader = "Also geb ich auf"
