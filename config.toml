@@ -50,8 +50,8 @@ DefaultContentLanguage = "en"
 
   [Languages.en.homepage]
    ## -- HOMEPAGE -- ##
-  topBannerText = "Next Meetup: Sunday, 18.03.2018 17:00 - 20:00"
-  #leadText = "We're a group of people who want to help you answer the question: how can I do good better?"
+  #topBannerText = ""
+  leadText = "Next Meetup: Sunday, 18.03.2018 17:00 - 20:00"
   firstSectionHeader = "Meetups"
   #secondSectionHeader = "Building a community"
   #thirdSectionHeader = "Finding better ways to help"
