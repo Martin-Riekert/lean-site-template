@@ -1,1 +1,8 @@
 Herzlich willkommen zu unserer Website für alle am Effektiven Altruismus interessierten in Stuttgart und Umgebung!
+
+Heutzutage gibt es zahlreiche Möglichkeiten, sich für das Wohl anderer einzusetzen. Wie gehen wir aber vor, wenn wir anderen nicht nur etwas, sondern bestmöglich helfen wollen?
+Welchem Zweck geben wir Priorität und wie finden wir heraus, welche ethischen Herausforderungen die größte Bedeutung haben?
+
+Der Effektive Altruismus ist eine noch recht junge, jedoch wachsende soziale Bewegung mit dem Ziel, das Leben für alle empfindungsfähigen Wesen in möglichst hohem Maße zu verbessern. Besonders wichtig ist dabei die Verwendung wissenschaftlicher Methoden sowie rationaler Vorgehensweisen um herauszufinden, welche Hilfsmaßnahmen die größte positive Wirkung versprechen.
+
+Mehr zu dem Effektiven Altruismus findet sich in unserer FAQ https://eastuttgart.org/de/faq/
