@@ -51,9 +51,9 @@ DefaultContentLanguage = "en"
   [Languages.en.homepage]
    ## -- HOMEPAGE -- ##
   #topBannerText = ""
-  leadText = "Next Meetup: Sunday, 18.03.2018 at 17:00 - 20:00"
-  firstSectionHeader = "Meetups"
-  #secondSectionHeader = "Building a community"
+  #leadText = ""
+  firstSectionHeader = "The why and how of effective altruism"
+  secondSectionHeader = "Meetups"
   #thirdSectionHeader = "Finding better ways to help"
   bottomBannerText = "A proud member of the effective altruism network"
 
@@ -118,9 +118,9 @@ DefaultContentLanguage = "en"
   [Languages.de.homepage]
   #topBannerText = "Wer sind wir?"
   #leadText = "Nächstes Meetup: Sonntag, 18.03.2018 von 17:00 Uhr bis 20:00 Uhr"
-  firstSectionHeader = "Meetup am Sonntag, 18.03.2018 von 17:00 Uhr bis 20:00 Uhr"
-  #secondSectionHeader = "...ist echt nicht so gut"
-  #thirdSectionHeader = "Also geb ich auf"
+  firstSectionHeader = "Was ist effektiver Altruismus?"
+  secondSectionHeader = "Meetups"
+  thirdSectionHeader = "Vorträge"
   #bottomBannerText = "..und so weiter"
 
   [Languages.de.contactform]
