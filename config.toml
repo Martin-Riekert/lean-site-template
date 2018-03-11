@@ -120,11 +120,11 @@ DefaultContentLanguage = "en"
   #leadText = "Nächstes Meetup: Sonntag, 18.03.2018 von 17:00 Uhr bis 20:00 Uhr"
   firstSectionHeader = "Was ist effektiver Altruismus?"
   secondSectionHeader = "Meetups"
-  thirdSectionHeader = "Vorträge"
+  #thirdSectionHeader = "Vorträge"
   #bottomBannerText = "..und so weiter"
 
   [Languages.de.contactform]
-  leadText = "Sagen Sie Hallo!"
+  leadText = "Vielen Dank für Ihr interesse an EA Stuttgart. Bitte nützen Sie nachfolgendes Formular, um die Lokalgruppe direkt zu erreichen."
   senderName = "Bitte geben Sie Ihren Namen an (erforderlich)"
   senderEmail = "E-Mail (erforderlich):"
   emailSubject = "Betreff"
