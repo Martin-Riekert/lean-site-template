@@ -3,7 +3,7 @@ EA meetups are informal events for people interested in effective altruism to me
 
 Upcoming Meetups: 
 
-** Sunday, 08.04.2018, 17:00 - 20:00, [Dean & David](https://www.google.de/maps/place/Dean+%26+David/@48.7826502,9.1694814,15z/data=!4m8!1m2!2m1!1sdean+and+david+stuttgart!3m4!1s0x4799db49adb60fd5:0xbf8123c46f08a879!8m2!3d48.775128!4d9.1726715) **
+**Sunday, 08.04.2018, 17:00 - 20:00, [Dean & David](https://www.google.de/maps/place/Dean+%26+David/@48.7826502,9.1694814,15z/data=!4m8!1m2!2m1!1sdean+and+david+stuttgart!3m4!1s0x4799db49adb60fd5:0xbf8123c46f08a879!8m2!3d48.775128!4d9.1726715)**
 
 **Sunday, 06.05.2018, 17:00 - 20:00, [Dean & David](https://www.google.de/maps/place/Dean+%26+David/@48.7826502,9.1694814,15z/data=!4m8!1m2!2m1!1sdean+and+david+stuttgart!3m4!1s0x4799db49adb60fd5:0xbf8123c46f08a879!8m2!3d48.775128!4d9.1726715)**
 
