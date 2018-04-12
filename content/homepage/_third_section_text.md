@@ -2,4 +2,4 @@ The university group [Reason_Ing](https://www.facebook.com/reasoningstuttgart/?h
 
 Talks:
 
-MON, APRIL 30, 2018 AT 19:00 [Effective Altruism - Engineering a Better World](https://www.facebook.com/events/375114162978914/) 
+**MON, APRIL 30, 2018 AT 19:00 [Effective Altruism - Engineering a Better World](https://www.facebook.com/events/375114162978914/)**
