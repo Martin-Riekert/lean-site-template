@@ -2,4 +2,4 @@ Die Hochschulgruppe [Reason_Ing.](https://www.facebook.com/reasoningstuttgart/?h
 
 Vorträge:
 
-MO, 30. APRIL UM 19:00 [Effektiver Altruismus - Engineering a Better World](https://www.facebook.com/events/375114162978914/) 
+**MO, 30. APRIL 2018 UM 19:00 [Effektiver Altruismus - Engineering a Better World](https://www.facebook.com/events/375114162978914/)**
