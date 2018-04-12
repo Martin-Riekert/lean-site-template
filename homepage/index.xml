@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepages on EA Stuttgart</title>
+    <link>https://eastuttgart.org/homepage/</link>
+    <description>Recent content in Homepages on EA Stuttgart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://eastuttgart.org/homepage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://eastuttgart.org/homepage/_first_section_text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eastuttgart.org/homepage/_first_section_text/</guid>
+      <description>Effective altruism is about answering one simple question: how can we use our resources to help others the most? Rather than just doing what feels right, we use evidence and careful analysis to find the very best causes to work on. But it&amp;rsquo;s no use answering the question unless you act on it. Effective altruism is about following through. It&amp;rsquo;s about being generous with your time and your money to do the most good you can.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://eastuttgart.org/homepage/_second_section_text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eastuttgart.org/homepage/_second_section_text/</guid>
+      <description>EA meetups are informal events for people interested in effective altruism to meet up, get to know each other better, exchange thoughts and ideas. Feel free to just drop by, and bring along interested friends! There will be no formal program but hopefully a lot of great conversations and fun! EA Stuttgart meetups are held every month. Foreigners and non-German speakers are very welcome. We speak English during the meetup. You can find us in the first floor of Dean &amp;amp; David.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://eastuttgart.org/homepage/_third_section_text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eastuttgart.org/homepage/_third_section_text/</guid>
+      <description>MON, APRIL 30, 2018 AT 19:00 Effective Altruism - Engineering a Better World
+The university group Reason_Ing. invited us to introduce them to Effective Altruism. The event is divided into lecture (45 min) and discussion (45 min). The introduction talk will be in german.</description>
+    </item>
+    
+  </channel>
+</rss>
